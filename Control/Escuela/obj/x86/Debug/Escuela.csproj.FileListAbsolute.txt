@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\Control\Escuela\bin\Debug\Escuela.exe
+C:\Users\ASUS\Documents\Control\Escuela\bin\Debug\Escuela.pdb
+C:\Users\ASUS\Documents\Control\Escuela\obj\x86\Debug\Escuela.Properties.Resources.resources
+C:\Users\ASUS\Documents\Control\Escuela\obj\x86\Debug\Escuela.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Control\Escuela\obj\x86\Debug\Escuela.exe
+C:\Users\ASUS\Documents\Control\Escuela\obj\x86\Debug\Escuela.pdb
+C:\Users\ASUS\Documents\Control\Escuela\bin\Debug\Control.dll
+C:\Users\ASUS\Documents\Control\Escuela\bin\Debug\Control.pdb
+C:\Users\ASUS\Documents\Control\Escuela\obj\x86\Debug\Escuela.Form1.resources
+C:\Users\ASUS\Documents\Control\Escuela\obj\x86\Debug\Escuela.csprojResolveAssemblyReference.cache
